@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CicloDeLaVida</string>
+    <string name="estate">"Estado: "</string>
+</resources>
